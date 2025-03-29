@@ -1,0 +1,6 @@
+1.new fuction --> add
+
+2.new fuction --> delete
+
+
+3.new function --> merge
